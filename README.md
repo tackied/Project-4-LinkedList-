@@ -8,6 +8,6 @@ This Java program reads a list of Integer numbers from a scanned input and saves
 **Program Instructions**
 1. After cloning all three classes, run the following command in your terminal:
    ```javac Main.java```
-   ``java Main.java```
+   ```java Main.java```
 3. For javadoc, run the following command in yout terminal:
    ```javadoc -d docs Main.java```
